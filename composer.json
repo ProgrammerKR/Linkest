@@ -1,8 +1,8 @@
 {
-    "name": "linkstackorg/linkstack",
+    "name": "ProgrammerKR/Linkest",
     "type": "project",
-    "description": "LinkStack is a highly customizable link sharing platform",
-    "keywords": ["link"],
+    "description": "Linkest is a highly customizable and modern link sharing platform, rebranded and enhanced from LinkStack.",
+    "keywords": ["link", "linktree", "linkest", "profile", "bio", "customizable"],
     "license": "GPL-3.0-or-later",
     "require": {
         "php": ">=8.0",
